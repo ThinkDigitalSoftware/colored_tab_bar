@@ -1,0 +1,18 @@
+name: colored_tab_bar
+description: A custom TabBar where you can control the color behind the Tabs
+version: 0.0.1
+author: Jonathan White <jwhite@thinkdigital.software>
+homepage: https://www.github.com
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
